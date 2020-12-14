@@ -4,7 +4,7 @@
 ## Classe : B3B
 ## Elèves : Emma Durand **[@emmadrd912](https://github.com/emmadrd912)** et Pierre Ceberio **[@PierreYnov](https://github.com/PierreYnov)** 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/KeePass_icon.svg/1200px-KeePass_icon.svg.png)
+![](https://cdnx.nextinpact.com/data-next/images/bd/wide-linked-media/799.jpg)
 
 # Sommaire 
 
